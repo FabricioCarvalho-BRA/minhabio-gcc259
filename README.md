@@ -35,3 +35,7 @@ Sou um(a) profissional apaixonado(a) por tecnologia, com experiência em diversa
 - **Inglês:** Básico
 
 Sinta-se à vontade para entrar em contato comigo por e-mail se tiver alguma pergunta ou oportunidade de colaboração. Estou sempre em busca de desafios emocionantes e novas oportunidades de aprendizado.
+
+Avatar: 
+
+![avatar.png](avatar.png)
