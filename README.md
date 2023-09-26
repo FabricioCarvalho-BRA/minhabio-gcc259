@@ -23,7 +23,7 @@ Sou um(a) profissional apaixonado(a) por tecnologia, com experiência em diversa
 - **Frameworks:** React, Node.js
 - **Bancos de Dados:** MySql, MongoDB
 - **Gestão de Projetos:** Scrum, Kanban
-- 
+
 ## Interesses
 - Desenvolvimento de software
 - Análise de dados
